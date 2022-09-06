@@ -1,0 +1,24 @@
+{
+  "name": "edek92-jsfepreschool2022q2",
+  "version": "1.0.0",
+  "description": "Private repository for @edek92",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/edek92-JSFEPRESCHOOL2022Q2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/edek92-JSFEPRESCHOOL2022Q2/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/edek92-JSFEPRESCHOOL2022Q2#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
